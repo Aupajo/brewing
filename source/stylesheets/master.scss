@@ -3,7 +3,11 @@ body {
   color: #403826;
   font: 18pt/1.6em "garamond-premier-pro-caption", serif;
   margin: 2em auto;
-  width: 30em;
+  max-width: 30em;
+}
+
+main {
+  margin: 2em;
 }
 
 h1, h2 {
