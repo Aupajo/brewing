@@ -18,3 +18,8 @@ title: "Kit: Mangrove Jack's Columbus APA"
 * Pitched yeast about 24.5°
 * Used plain white sugar
 * Weather cold, using a heating pad
+
+
+### Thu, 24 Sep 2015
+
+* Morning reading: 21º
