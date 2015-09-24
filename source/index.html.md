@@ -19,15 +19,16 @@ title: "Kit: Mangrove Jack's Columbus APA"
 
 _\* Low by about 5º. Measurements taken from outside the fermenter._
 
+### Thu, 24 Sep 2015
+
+* Morning reading: 21º
+* Evening reading: 21º
+* Set up live temperature readings
+
+
 ### Wed, 23 Sep 2015
 
 * Initial gravity: beyond the limits of my hydrometer, over 1.040
 * Used hot water (tap water, measured at 60°), not boiling water
 * Pitched yeast about 24.5°
 * Weather cold, set fermenter on heating pad
-
-### Thu, 24 Sep 2015
-
-* Morning reading: 21º
-* Evening reading: 21º
-* Set up live temperature readings
