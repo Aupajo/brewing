@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://use.typekit.net/zao4kcj.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
-    <link href="stylesheets/master-d5af99df.css" rel="stylesheet" />
+    <link href="stylesheets/master-51d35bf5.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rickshaw/1.5.1/rickshaw.min.css">
   </head>
   <body>
 
@@ -19,7 +20,16 @@
   <div class="fill"></div>
 </div>
 
-<p><em>Brew due: Sat, 3 Oct 2015</em></p>
+<p><em>Bottling: Sat, 3 Oct 2015</em></p>
+
+<h3 id="live-temperature">Live temperature*</h3>
+
+<div id="chart">
+  <div id="time-axis"></div>
+  <div id="rendering"></div>
+</div>
+
+<p><em>* Low by about 5º. Measurements taken from outside the fermenter.</em></p>
 
 <h3 id="wed-23-sep-2015">Wed, 23 Sep 2015</h3>
 
@@ -27,19 +37,23 @@
   <li>Initial gravity: beyond the limits of my hydrometer, over 1.040</li>
   <li>Used hot water (tap water, measured at 60°), not boiling water</li>
   <li>Pitched yeast about 24.5°</li>
-  <li>Used plain white sugar</li>
-  <li>Weather cold, using a heating pad</li>
+  <li>Weather cold, set fermenter on heating pad</li>
 </ul>
 
 <h3 id="thu-24-sep-2015">Thu, 24 Sep 2015</h3>
 
 <ul>
   <li>Morning reading: 21º</li>
+  <li>Evening reading: 21º</li>
+  <li>Set up live temperature readings</li>
 </ul>
 
 
-      <script src="javascripts/master-c1d59e44.js"></script>
+      <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/rickshaw/1.5.1/rickshaw.min.js"></script>
+      <script src="javascripts/master-25951c2b.js"></script>
     </main>
-    
+
   </body>
 </html>
