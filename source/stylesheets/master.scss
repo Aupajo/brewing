@@ -7,7 +7,7 @@ body {
 }
 
 main {
-  margin: 2em;
+  margin: 1em;
 }
 
 h1, h2 {
@@ -25,4 +25,22 @@ h1, h2 {
     border-radius: $height;
     height: $height;
   }
+}
+
+#chart {
+  margin-left: -40px;
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#rendering {
+  position: relative;
+  left: 40px;
+}
+
+#time-axis {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 40px;
 }
