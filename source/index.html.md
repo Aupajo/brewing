@@ -23,7 +23,8 @@ _\* Low by about 5º. Measurements taken from outside the fermenter._
 
 * Cold night, morning reading: 19º
 * External temperature sensor not sticking to the fermenter barrel very well
-* Adjusted live readings to report every 30 minutes
+* Adjusted live reading reporting rate (thanks, Kirsty!)
+* Gravity still over 1.040
 
 ### Thu, 24 Sep 2015
 
