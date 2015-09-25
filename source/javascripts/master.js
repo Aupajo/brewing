@@ -40,12 +40,16 @@
       }]
     })
 
-    new Rickshaw.Graph.Axis.Time({ graph: graph })
-
     new Rickshaw.Graph.HoverDetail({
     	graph: graph,
+      xFormatter: function(t) { return moment(t * 1000).format('ddd D MMM h:mma') },
       yFormatter: function(n) { return (Math.round(n * 10) / 10).toString() + 'º' }
     });
+
+    new Rickshaw.Graph.Axis.X({
+      graph: graph,
+      tickFormat: function(t) { return moment(t * 1000).format('h:mma') }
+    })
 
     new Rickshaw.Graph.Axis.Y( {
       graph: graph,
