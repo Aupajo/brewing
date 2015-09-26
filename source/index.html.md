@@ -19,6 +19,10 @@ title: "Kit: Mangrove Jack's Columbus APA"
 
 _\* Low by about 5º. Measurements taken from outside the fermenter._
 
+### Sun, 27 Sep 2015
+
+* Another cold night, compensated by setting the room heater on a timer
+
 ### Fri, 25 Sep 2015
 
 * Cold night, morning reading: 19º
