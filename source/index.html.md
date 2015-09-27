@@ -24,6 +24,7 @@ _\* Low by about 5º. Measurements taken from outside the fermenter._
 * Another cold night, compensated by setting the room heater on a timer
 * Gravity: 1.032
 * Sample quite pleasant, bodes well
+* Added hop pellets (Columbus, Centennial)
 
 ### Fri, 25 Sep 2015
 
