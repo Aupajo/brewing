@@ -19,6 +19,10 @@ title: "Kit: Mangrove Jack's Columbus APA"
 
 _\* Low by about 5º. Measurements taken from outside the fermenter._
 
+### Tue, 29 Sep 2015
+
+* Gravity at 1.025
+
 ### Mon, 28 Sep 2015
 
 * Gravity at 1.030
