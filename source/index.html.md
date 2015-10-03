@@ -4,11 +4,11 @@ title: "Kit: Mangrove Jack's Columbus APA"
 
 ## Mangrove Jack's Columbus APA
 
-<div class="progress" data-start="23 Sept 2015" data-end="3 Oct 2015">
+<div class="progress" data-start="23 Sept 2015" data-end="5 Oct 2015">
   <div class="fill"></div>
 </div>
 
-*Bottling: Sat, 3 Oct 2015*
+*Bottling: Sat, 5 Oct 2015*
 
 ### Live temperature\*
 
@@ -18,6 +18,14 @@ title: "Kit: Mangrove Jack's Columbus APA"
 </div>
 
 _\* Low by about 5º. Measurements taken from outside the fermenter._
+
+### Sat, 3 Oct 2015
+
+* Gravity: 1.015
+
+### Fri, 2 Oct 2015
+
+* Gravity: 1.019
 
 ### Wed, 30 Sep 2015
 
