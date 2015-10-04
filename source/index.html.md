@@ -4,11 +4,11 @@ title: "Kit: Mangrove Jack's Columbus APA"
 
 ## Mangrove Jack's Columbus APA
 
-<div class="progress" data-start="23 Sept 2015" data-end="5 Oct 2015">
+<div class="progress" data-start="23 Sept 2015" data-end="7 Oct 2015">
   <div class="fill"></div>
 </div>
 
-*Bottling: Sat, 5 Oct 2015*
+*Bottling: Tue, 6 Oct 2015*
 
 ### Live temperature\*
 
