@@ -40,6 +40,11 @@ title: "Kit: Mangrove Jack's Columbus APA"
 
 <span class="note">Low by 3-5º. Measurements taken from outside the fermenter.</span>
 
+### Tue, 6 Oct 2015
+
+* Weather has turned sunny
+* Airlock barely bubbling
+
 ### Sun, 27 Sep 2015
 
 * Another cold night, compensated by setting the room heater on a timer
