@@ -4,46 +4,45 @@ title: "Kit: Mangrove Jack's Columbus APA"
 
 ## Mangrove Jack's Columbus APA
 
-<div class="progress" data-start="23 Sept 2015" data-end="7 Oct 2015">
+<div class="progress" data-start="23 Sept 2015" data-end="11 Oct 2015">
   <div class="fill"></div>
 </div>
 
-*Bottling: Tue, 6 Oct 2015*
+*Bottling: Sat, 10 Oct 2015*
 
-### Live temperature\*
+### Gravity
+
+<table>
+  <tr>
+    <th>27 Sep</th>
+    <th>29 Sep</th>
+    <th>30 Sep</th>
+    <th>2 Oct</th>
+    <th>3 Oct</th>
+    <th>5 Oct</th>
+  </tr>
+  <tr>
+    <td>1.032</td>
+    <td>1.030</td>
+    <td>1.025</td>
+    <td>1.022</td>
+    <td>1.019</td>
+    <td>1.015</td>
+  </tr>
+</table>
+
+### Temperature (live)
 
 <div id="chart">
   <div id="time-axis"></div>
   <div id="rendering"></div>
 </div>
 
-_\* Low by about 5º. Measurements taken from outside the fermenter._
-
-### Sat, 3 Oct 2015
-
-* Gravity: 1.015
-
-### Fri, 2 Oct 2015
-
-* Gravity: 1.019
-
-### Wed, 30 Sep 2015
-
-* Gravity: 1.022
-
-### Tue, 29 Sep 2015
-
-* Gravity: 1.025
-
-### Mon, 28 Sep 2015
-
-* Gravity: 1.030
-* Weather has taken a turn for the sunny
+<span class="note">Low by 3-5º. Measurements taken from outside the fermenter.</span>
 
 ### Sun, 27 Sep 2015
 
 * Another cold night, compensated by setting the room heater on a timer
-* Gravity: 1.032
 * Sample quite pleasant, bodes well
 * Added hop pellets (Columbus, Centennial)
 
