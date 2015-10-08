@@ -21,6 +21,7 @@
   }
 
   var chart = document.getElementById("rendering")
+  var graph
 
   var renderChart = function(input) {
     var data = input.map(function(entry) {
@@ -30,9 +31,10 @@
       return { x: epochSeconds, y: temperature }
     })
 
-    var graph = new Rickshaw.Graph( {
+    graph = new Rickshaw.Graph( {
       element: chart,
       height: 250,
+      width: document.body.offsetWidth - 40,
       series: [{
         name: "Temp",
         color: 'rgb(223, 152, 31)',
@@ -61,6 +63,11 @@
 
     graph.render()
   }
+
+  window.addEventListener('resize', function() {
+    graph.configure({ height: 250,  width: document.body.offsetWidth - 40 })
+    graph.render()
+  })
 
   fetch()
 })()
