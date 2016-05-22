@@ -1,5 +1,5 @@
 ---
-title: "Unnamed Pale Ale"
+title: "As-Yet-Unnamed Single-Hop Pale Ale"
 ---
 
 ## As-Yet-Unnamed Single-Hop Pale Ale
