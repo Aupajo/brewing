@@ -28,7 +28,7 @@ title: "Unnamed Pale Ale"
 
 ### Final result
 
-* Tasted awful
+* Tasted awful, probably due to not understanding the boil process properly
 
 ### Sat, 7 Nov 2015
 
