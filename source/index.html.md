@@ -1,17 +1,34 @@
 ---
-title: "Kit: Mangrove Jack's Columbus APA"
+title: "Unnamed Pale Ale"
 ---
 
-## Mangrove Jack's Columbus APA
+## As-Yet-Unnamed Single-Hop Pale Ale
 
-### Temperature
+### Live Temperature
 
 <div id="chart">
   <div id="time-axis"></div>
   <div id="rendering"></div>
 </div>
 
-<span class="note">Low by 3-5º. Measurements taken from outside the fermenter.</span>
+<span class="note">Updated every 30 minutes, with luck. The goal is to stay within 18-23ºC.</span>
+
+### Sun, 22 May 2016
+
+* 2 x 1.5kg cans of Maltexo
+* 28g Nelson Sauvin added after hot break
+* Another 28g Nelson Sauvin added at 30-minute mark
+* Another 14g Nelson Sauvin added at 55-minute mark
+* Boil ended at 60-minute mark and quickly cooled to 24ºC in ice water
+* Topped up with water and pitched M44 US West Coast Yeast at 24ºC
+* Rehydrated the yeast about 20 minutes too early – kept it around 32ºC in water
+* Original gravity 1.041
+
+## Mangrove Jack's Columbus APA
+
+### Final result
+
+* Tasted awful
 
 ### Sat, 7 Nov 2015
 
