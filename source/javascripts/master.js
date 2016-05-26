@@ -50,7 +50,7 @@
 
     new Rickshaw.Graph.Axis.X({
       graph: graph,
-      tickFormat: function(t) { return moment(t * 1000).format('h:mma') }
+      tickFormat: function(t) { return moment(t * 1000).format('ddd h:mma') }
     })
 
     new Rickshaw.Graph.Axis.Y( {
