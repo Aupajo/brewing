@@ -14,6 +14,24 @@ h1, h2 {
   font-weight: normal;
 }
 
+code {
+  font-size: 0.8em;
+}
+
+small {
+  color: #9f8f6b;
+  display: block;
+  line-height: 1.2em;
+
+  &::before {
+    display: block;
+    content: " ";
+    padding: 0.5em 0;
+    width: 1em;
+    border-top: 2px solid;
+  }
+}
+
 table {
   border-collapse: collapse;
   margin-bottom: 2em;
@@ -27,6 +45,11 @@ th, td {
 
 th, td {
   border-bottom: 1px solid lighten(#403826, 60%);
+}
+
+a {
+  color: #da7d31;
+  text-decoration: none;
 }
 
 .note {
